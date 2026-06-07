@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "usr_1ukhmn6if",
+      "name": "john",
+      "email": "john@gmail.com",
+      "passwordHash": "$2b$10$Qx5k.jsCHGdUtT2bKQ6e8.Vh4YXQVCoMN7W/YCyh38R.x3/PVp3Om",
+      "profilePicture": "https://api.dicebear.com/7.x/initials/svg?seed=john",
+      "role": "Member"
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj_05wpmypvt",
+      "name": "project mangament tools",
+      "description": "aedsfDXGBFDSZCXV",
+      "owner": "usr_1ukhmn6if",
+      "members": [],
+      "createdAt": "2026-06-07T18:51:35.378Z"
+    }
+  ],
+  "tasks": [],
+  "comments": [],
+  "notifications": [],
+  "activities": [
+    {
+      "id": "act_ii96so4dy",
+      "userId": "usr_1ukhmn6if",
+      "userName": "john",
+      "action": "created project",
+      "targetType": "project",
+      "targetName": "project mangament tools",
+      "projectId": "prj_05wpmypvt",
+      "createdAt": "2026-06-07T18:51:35.381Z"
+    }
+  ],
+  "chatMessages": []
+}

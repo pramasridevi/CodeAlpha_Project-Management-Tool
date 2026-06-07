@@ -1,0 +1,6 @@
+{
+  "name": "Project Management Tool",
+  "description": "A production-ready Project Management and Kanban Board tool similarly structured to Trello and Asana with JWT auth, real-time collaboration, and task analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
