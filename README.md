@@ -1,20 +1,75 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Project Management Tool
 
-# Run and deploy your AI Studio app
+A modern web-based project management application designed to help teams plan projects, organize tasks, track progress, and collaborate efficiently.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/b4758917-ece1-4de6-a6f3-8ecd8fe5de92
+* Create and manage projects
+* Organize tasks and workflows
+* Track project progress in real time
+* Team collaboration and communication
+* User-friendly dashboard
+* Responsive design for desktop and mobile devices
+* Fast and modern user interface
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+* HTML5
+* CSS3
+* JavaScript / TypeScript
+* Vite
+* Node.js
+* Google AI Studio
 
+## Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clone the repository:
+
+```bash
+git clone https://github.com/pramasridevi/Project-Management-Tool.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Project-Management-Tool
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the localhost URL displayed in the terminal.
+
+## Project Structure
+
+```text
+src/        - Frontend source code
+server/     - Backend/server files
+assets/     - Images and static assets
+```
+
+## Future Enhancements
+
+* User authentication
+* Role-based access control
+* Project analytics dashboard
+* Notifications and reminders
+* File sharing and attachments
+* AI-powered project insights
+
+## Author
+
+Developed by P. Rama Sridevi
+
+## License
+
+This project is intended for educational and portfolio purposes.
